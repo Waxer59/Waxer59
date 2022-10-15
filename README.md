@@ -4,7 +4,7 @@ Hi 👋 My name is Hugo
 I'm a fullstack developer
 -------------------------
 
-I have been programming since I was fourteen years old, I started with c++ and from there I went on to study java, after learning java I started to study web development until now.
+I have been programming since I was fourteen years old, I started with C++ and from there I went on to study java, after learning java I started to study web development until now.
 
 * 🌍  I'm based in Spain
 * 🖥️  See my portfolio at [wadev](http://wadev.netlify.app/)
