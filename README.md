@@ -40,5 +40,6 @@ I have been programming since I was fourteen years old, I started with C++ and f
 
 <a href="http://www.github.com/Waxer59"><img src="https://activity-graph.herokuapp.com/graph?username=Waxer59&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-[![Profile badge](https://www.codewars.com/users/Waxer/badges/large)](https://www.codewars.com/users/Waxer)
 [![@waxer59's Holopin board](https://holopin.me/waxer59)](https://holopin.io/@waxer59)
+[![Profile badge](https://www.codewars.com/users/Waxer/badges/large)](https://www.codewars.com/users/Waxer)
+
