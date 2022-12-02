@@ -36,10 +36,7 @@ I have been programming since I was fourteen years old, I started with C++ and f
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/Waxer59#7988" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Waxer59" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/19106007/waxer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Waxer59" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-<a href="http://www.github.com/Waxer59"><img src="https://activity-graph.herokuapp.com/graph?username=Waxer59&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
+[![Waxer59's GitHub stats](https://github-readme-stats.vercel.app/api?username=Waxer59)](https://github.com/anuraghazra/github-readme-stats)
 [![@waxer59's Holopin board](https://holopin.me/waxer59)](https://holopin.io/@waxer59)
 [![Profile badge](https://www.codewars.com/users/Waxer/badges/large)](https://www.codewars.com/users/Waxer)
 
