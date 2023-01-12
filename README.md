@@ -36,6 +36,5 @@ I have been programming since I was fourteen years old, I started with C++ and f
 
 ### Socials
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Waxer59&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![@waxer59's Holopin board](https://holopin.me/waxer59)](https://holopin.io/@waxer59)
 [![Profile badge](https://www.codewars.com/users/Waxer/badges/large)](https://www.codewars.com/users/Waxer)
