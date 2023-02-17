@@ -7,7 +7,7 @@ I'm a fullstack developer
 I have been programming since I was fourteen years old, I started with C++ and from there I went on to study java, after learning java I started to study web development until now.
 
 * 🌍  I'm based in Spain
-* 🖥️  See my portfolio at [wadev](http://wadev.netlify.app/)
+* 🖥️  See my portfolio at [wadev](http://wadev.dev/)
 * ⚡  The technologies I like the most at the moment are React and Nestjs.
 
 ### Skills
