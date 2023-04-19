@@ -35,7 +35,6 @@ I have been programming since I was fourteen years old, I started with C++ and f
 <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=waxer59&show_icons=true&locale=en&layout=compact" alt="waxer59" />
 
 ### Socials
 
