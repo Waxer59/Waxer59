@@ -39,6 +39,6 @@ I have been programming since I was fourteen years old, I started with C++ and f
 
 ### Socials
 
-[![@waxer59's Holopin board](https://holopin.me/waxer59)](https://holopin.io/@waxer59)
+[![An image of @waxer59's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/waxer59)](https://holopin.io/@waxer59)
 [![@Waxer59 Astro contributions](https://astro.badg.es/v2/contributor/Waxer59.svg)](https://astro.badg.es/contributor/Waxer59/)
 [![Profile badge](https://www.codewars.com/users/Waxer/badges/large)](https://www.codewars.com/users/Waxer)
