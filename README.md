@@ -4,7 +4,11 @@ Hi 👋 My name is Hugo
 I'm a fullstack developer
 -------------------------
 
-I have been programming since I was fourteen years old. I started with C++, then moved on to study Java. After learning Java, I began studying web development, which I have been focused on ever since.
+I'm Hugo! Software developer and open source contributor.
+
+I enjoy creating quality products that provide excellent experiences and are useful for users. I collaborate on various open source projects, which has allowed me to meet new people and improve my soft skills.
+
+Additionally, I have experience leading teams and mentoring colleagues, helping them improve and develop their technical skills.
 
 * 🌍  I'm based in Spain
 * 🖥️  See my portfolio at [hgo](http://hgo.one/)
